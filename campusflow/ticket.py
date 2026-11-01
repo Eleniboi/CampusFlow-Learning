@@ -13,8 +13,8 @@ class Ticket:
 
         ticket_map = {
 
-            "title":title
-            "categories":categories
-            "urgency":urgency
+            "title":title,
+            "categories":categories,
+            "urgency":urgency,
             "affected_users":affected_users
         }
